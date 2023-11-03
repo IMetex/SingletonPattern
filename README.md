@@ -1,7 +1,6 @@
-# Patika-Java
-Patika Java kursundaki ödev reposudur.
+# Singleton Desing Pattern
 
-[Patika Java Eğitimi İçin Tıklayınız](https://app.patika.dev/courses/java101)
-
-![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg) 
+>Singletion desing pattern repository created for Medium articles.
+>
+>[Click Here to read the Medium article](https://medium.com/@brs.mete7/unity-i%C3%A7in-singleton-design-pattern-kullan%C4%B1m%C4%B1-b814c8919723)
 
